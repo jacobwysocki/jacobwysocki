@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacobwysocki
 
 - 👀 I’m interested in Web (JavaScript, React, Magento and PHP) and Mobile Development (.NET, Xamarin, C# and XAML) as well as Cloud Computing
-- 🌱 I’m currently finishing last year of Computer Science degree 
+- 🌱 I graduated Computer Science degree 
 - 📫 https://www.linkedin.com/in/jakub-wysocki00/
 
 <!---
