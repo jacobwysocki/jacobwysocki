@@ -12,14 +12,14 @@
 
 ### 🚀 What I'm building now
 
-- **[Squizzu](https://www.squizzu.com)** — *Co-founder & Full-Stack Engineer.* A gamified recruitment SaaS taken from **0 → 1,000+ users**. Built the architecture (.NET 8 / Aspire, Next.js + React 19, CosmosDB on Azure), integrated **GPT-4o** product agents with self-healing JSON validation, and designed **100+ screens** from scratch.
-- **[Ultra Studio](https://ultrastud.io)** — *Co-founder & Tech Lead.* A creative studio for high-end branding, web design and custom development — including an autonomous **AI agent** that auto-generates JSON-LD structured data to boost clients' SEO.
+- **[Squizzu](https://www.squizzu.com)** — *Co-founder & Full-Stack Engineer.* A gamified recruitment SaaS. Built the architecture (.NET 8 / Aspire, Next.js + React 19, CosmosDB on Azure), integrated **GPT-4o** product agents with self-healing JSON validation, and designed **100+ screens** from scratch.
+- **[Ultra Studio](https://ultrastud.io)** — *Co-founder & Tech Lead.* A creative studio for high-end branding, web design and custom development.
 
 ### 🛠 Previously
 
 - **Enterprise Transport Management Software** for the UK haulage industry
 - E-commerce & internal tooling — including a conversational **text-to-SQL** interface that saved teams ~5h/week
-- University research software — **40k+ active users** after a UX redesign
+- University software — **40k+ active users** after a UX redesign
 
 ### 🎓 Education
 
